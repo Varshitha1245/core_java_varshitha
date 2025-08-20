@@ -1,4 +1,4 @@
-package java_tns;
+package java_tns.corejava;
 
 public class Demo {
 
